@@ -1,0 +1,27 @@
+#button{
+    padding: 0;
+}
+#button td{
+    display: inline;
+}
+#button td a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    background-color: rgb(238, 134, 198);
+    color: rgb(0, 0, 0);
+}
+#button td a:hover{
+    background-color: rgb(212, 52, 146);
+    margin-top: -2;
+    padding-bottom: 12px;
+}
+p.borde-1{
+    border: rgb(201, 68, 201) 3px solid ;
+}
+p.borde-2{
+    border: plum 3 px dotted;
+}
+
